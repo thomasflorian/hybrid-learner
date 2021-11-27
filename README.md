@@ -1,0 +1,3 @@
+### Hybrid End-to-End Convolutional K-Nearest Neighbors Classifier
+
+This paper introduces a novel end-to-end machine learning model that replaces the fully-connected layers of a Convolutional Neural Network (CNN) with a differentiable K-Nearest Neighbor (KNN) classifier. Due to the large number of weights that need to be learned in a fully connected layer, fully connected neural networks are computationally expensive to train, require a large amount of data to train accurately, and are difficult to interpret. By replacing the fully connected layers of a traditional CNN with a differentiable KNN, our hybrid Convolutional K-Nearest Neighbors (C-KNN) classifier overcomes the limitations of fully connected layers without a reduction in classification accuracy.
